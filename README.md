@@ -9,5 +9,5 @@ Execute the file src/classifier.py.
 
 Run the file src/face_reg_image.py src/TestImage/Before with the images you want to recognize.
 
-#Demo
+# Demo
 You can refer to my work on Google Colab: https://colab.research.google.com/drive/19MGp-lG50GkcA5LPHMnwzyARqHw9WVcf?usp=sharing
